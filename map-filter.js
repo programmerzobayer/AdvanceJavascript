@@ -10,7 +10,7 @@ const output = [];
 // console.log(output);
 
 
-const map = num.map(function(element){ // map fun three perameter elemet,index,array
+const map = num.map(function(element){ // map fun three parameter element,index,array
       return element * element ;
 })
 console.log(map);
